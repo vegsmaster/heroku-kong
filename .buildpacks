@@ -1,2 +1,2 @@
-https://github.com/heroku/heroku-buildpack-kong#v3.1.2
+https://github.com/vegsmaster/heroku-kong-buildpack.git
 https://github.com/codeship/heroku-buildpack-runit.git
